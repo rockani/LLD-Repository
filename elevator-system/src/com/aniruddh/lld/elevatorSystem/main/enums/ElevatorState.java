@@ -1,4 +1,4 @@
-package com.aniruddh.lld.elevatorSystem.enums;
+package com.aniruddh.lld.elevatorSystem.main.enums;
 
 public enum ElevatorState {
 

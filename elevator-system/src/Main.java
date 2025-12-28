@@ -1,11 +1,11 @@
-import com.aniruddh.lld.elevatorSystem.elevatorSystem.DirectionAwareScheduler;
-import com.aniruddh.lld.elevatorSystem.elevatorSystem.ElevatorManager;
-import com.aniruddh.lld.elevatorSystem.elevatorSystem.ElevatorSystem;
-import com.aniruddh.lld.elevatorSystem.elevatorSystem.RequestDispatcher;
-import com.aniruddh.lld.elevatorSystem.model.Elevator;
-import com.aniruddh.lld.elevatorSystem.model.HallPanelDisplay;
-import com.aniruddh.lld.elevatorSystem.model.HallRequest;
-import com.aniruddh.lld.elevatorSystem.publisher.ElevatorEventPublisher;
+import com.aniruddh.lld.elevatorSystem.main.elevatorSystem.DirectionAwareScheduler;
+import com.aniruddh.lld.elevatorSystem.main.elevatorSystem.ElevatorManager;
+import com.aniruddh.lld.elevatorSystem.main.elevatorSystem.ElevatorSystem;
+import com.aniruddh.lld.elevatorSystem.main.elevatorSystem.RequestDispatcher;
+import com.aniruddh.lld.elevatorSystem.main.model.Elevator;
+import com.aniruddh.lld.elevatorSystem.main.model.HallPanelDisplay;
+import com.aniruddh.lld.elevatorSystem.main.model.HallRequest;
+import com.aniruddh.lld.elevatorSystem.main.publisher.ElevatorEventPublisher;
 
 import java.util.ArrayList;
 import java.util.Arrays;

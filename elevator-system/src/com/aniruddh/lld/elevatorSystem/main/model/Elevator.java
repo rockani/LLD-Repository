@@ -1,9 +1,9 @@
-package com.aniruddh.lld.elevatorSystem.model;
+package com.aniruddh.lld.elevatorSystem.main.model;
 
-import com.aniruddh.lld.elevatorSystem.enums.Direction;
-import com.aniruddh.lld.elevatorSystem.enums.ElevatorState;
-import com.aniruddh.lld.elevatorSystem.event.ElevatorEvent;
-import com.aniruddh.lld.elevatorSystem.publisher.ElevatorEventPublisher;
+import com.aniruddh.lld.elevatorSystem.main.enums.Direction;
+import com.aniruddh.lld.elevatorSystem.main.enums.ElevatorState;
+import com.aniruddh.lld.elevatorSystem.main.event.ElevatorEvent;
+import com.aniruddh.lld.elevatorSystem.main.publisher.ElevatorEventPublisher;
 
 import java.util.PriorityQueue;
 

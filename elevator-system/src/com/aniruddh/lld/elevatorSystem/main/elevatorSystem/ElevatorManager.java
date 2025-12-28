@@ -1,7 +1,6 @@
-package com.aniruddh.lld.elevatorSystem.elevatorSystem;
+package com.aniruddh.lld.elevatorSystem.main.elevatorSystem;
 
-import com.aniruddh.lld.elevatorSystem.model.Elevator;
-import com.aniruddh.lld.elevatorSystem.publisher.ElevatorEventPublisher;
+import com.aniruddh.lld.elevatorSystem.main.model.Elevator;
 
 import java.util.List;
 

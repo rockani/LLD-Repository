@@ -1,6 +1,6 @@
-package com.aniruddh.lld.elevatorSystem.model;
+package com.aniruddh.lld.elevatorSystem.main.model;
 
-import com.aniruddh.lld.elevatorSystem.enums.Direction;
+import com.aniruddh.lld.elevatorSystem.main.enums.Direction;
 
 public class HallRequest {
 

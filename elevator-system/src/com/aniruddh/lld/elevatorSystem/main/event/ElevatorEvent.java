@@ -1,6 +1,6 @@
-package com.aniruddh.lld.elevatorSystem.event;
+package com.aniruddh.lld.elevatorSystem.main.event;
 
-import com.aniruddh.lld.elevatorSystem.enums.Direction;
+import com.aniruddh.lld.elevatorSystem.main.enums.Direction;
 
 public class ElevatorEvent {
     int elevatorId;

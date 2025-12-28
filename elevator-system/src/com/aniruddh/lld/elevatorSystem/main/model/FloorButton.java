@@ -1,4 +1,4 @@
-package com.aniruddh.lld.elevatorSystem.model;
+package com.aniruddh.lld.elevatorSystem.main.model;
 
 public class FloorButton {
     private final int floorNumber ;
